@@ -3,7 +3,7 @@ This repository contains all the software needed to run the EM Cavity experiment
 ## FREE Server
 The `cavity_FREE_serve` folder contains all the HTML and JS needed to host the experiment page. 
 
-It also contains the image of the experiment to be uploaded to the FREE server in the apparatus table of the experiment in the folder `imagem` (named `cavity.png`).
+It also contains the image of the experiment to be uploaded to the FREE server in the apparatus table of the experiment in the folder `Imagem` (named `cavity.png`).
 
 <p align="center" width="100%">
 <img src="Imagem/cavity.png" width="500">
