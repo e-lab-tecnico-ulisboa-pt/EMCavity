@@ -14,6 +14,6 @@ It is present the modification of the EM Cavity code and the `RPi_Proxy/pic_inte
 
 
 ## EM Cavity Code
-The `EM_Cavity` folder has all the software developed in the master thesis **Deployment of a microwave cavity experiment using the Framework for Remote Experiments in Education**.
+The `EM_Cavity` folder has all the software developed in the master thesis [**Deployment of a microwave cavity experiment using the Framework for Remote Experiments in Education**](https://fenix.tecnico.ulisboa.pt/cursos/meft21/dissertacao/1128253548923088).
 
 Including the test of individual software written for the pressure reader and the spectrum analyser.
