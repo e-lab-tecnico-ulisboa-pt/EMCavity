@@ -1,7 +1,7 @@
 # EM Cavity
 This repository contains all the software needed to run the EM Cavity experiment.
 
-<img src="Imagem/cavidade.png" width="500">
+<img src="Imagem/cavity.png" width="500">
 
 ## EM Cavity Code
 The `EM_Cavity` folder contains all the software developed in the master for this **Deployment of a microwave cavity experiment using the Framework for Remote Experiments in Education**.
