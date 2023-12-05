@@ -13,7 +13,7 @@ It also contains the image of the experiment to be uploaded to the FREE server i
 ## RPi_Proxy
 The `RPi_Proxy` folder contains the proxy tool that can run the experiment and communicate with a 0.6.0 version of the FREE server.
 
-It is present the modification of the EM Cavity code and the `RPi_Proxy/pic_interface/interface.py' so that the proxy is able to execute the state machine of the experiment and send the data to the FREE server.
+It is present the modification of the EM Cavity code and the `RPi_Proxy/pic_interface/interface.py` so that the proxy is able to execute the state machine of the experiment and send the data to the FREE server.
 
 
 ## EM Cavity Code
