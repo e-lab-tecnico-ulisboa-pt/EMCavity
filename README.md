@@ -25,5 +25,5 @@ Including the test of individual software written for the pressure reader and th
 
 
 <p align="center" width="100%">
-    <img src="Imagem/schemas/table_cavity_sceq_old.png" width="700">
+    <img src="Imagem/schemas/table_cavity_sceq.png" width="700">
 </p>
